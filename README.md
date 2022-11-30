@@ -1,6 +1,6 @@
 # string
 
-this app validate the open and close  parentheses, brackets or curly brackets inside the string 
+this app validate the open and close  parentheses, brackets or curly brackets in the string 
 
 
 # Prerequisites
