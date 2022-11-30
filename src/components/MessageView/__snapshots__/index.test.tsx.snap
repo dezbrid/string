@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<MessageView /> <MessageView /> snapshot 1`] = `
+<View
+  style={
+    Object {
+      "margin": 20,
+    }
+  }
+>
+  <Text>
+    test
+  </Text>
+</View>
+`;

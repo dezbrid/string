@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> <App /> snapshot 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+>
+  <View
+    style={
+      Object {
+        "margin": 20,
+      }
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "alignItems": "center",
+            "backgroundColor": "#FFFFFF",
+            "borderRadius": 20,
+            "flexDirection": "row",
+            "height": 45,
+            "paddingLeft": 10,
+            "paddingRight": 15,
+          },
+          Object {
+            "borderColor": "#F1F1F1",
+            "borderWidth": 1,
+            "shadowColor": "#939393",
+            "shadowOffset": Object {
+              "height": 1,
+              "width": 0,
+            },
+            "shadowOpacity": 1,
+            "shadowRadius": 1,
+          },
+        ]
+      }
+    >
+      <TextInput
+        onChangeText={[Function]}
+        placeholder="ingrese el texto aquí"
+        placeholderTextColor="#939393"
+        style={
+          Object {
+            "color": "black",
+            "flex": 1,
+          }
+        }
+        testID="input"
+        value=""
+      />
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "margin": 20,
+      }
+    }
+  >
+    <Text>
+      
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;
